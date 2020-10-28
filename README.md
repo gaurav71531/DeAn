@@ -1,5 +1,9 @@
 # Noisy Batch Active Learning with Deterministic Annealing
 
+Gaurav Gupta, Anit Kumar Sahu, and Wan-Yi Lin
+
+![Image](http://scf.usc.edu/~ggaurav/pics/DeAn.png)
+
 **Language:** The code package is available in Python using Pytorch libary
 
 The current code also uses the code from following git repositories for comparison:
