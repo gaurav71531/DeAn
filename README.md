@@ -37,3 +37,16 @@ The figures are generated on Linux using Matplotlib, for using the current code 
 ```
 sudo apt-get install dvipng texlive-latex-extra texlive-fonts-recommended 
 ```
+
+## Citation
+For using the code in your work, please cite
+```
+@misc{gupta2020noisy,
+      title={Noisy Batch Active Learning with Deterministic Annealing}, 
+      author={Gaurav Gupta and Anit Kumar Sahu and Wan-Yi Lin},
+      year={2020},
+      eprint={1909.12473},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
